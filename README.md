@@ -1,8 +1,43 @@
-# React + Vite
+🚀 Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A secure and easy-to-use password manager built with JavaScript and React. This web app allows users to store their passwords securely along with associated websites and usernames.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ 🔐 Securely store passwords with associated site and username.
+
+✅ 🌐 User-friendly interface for easy password management.
+
+✅ 📋 Copy passwords to clipboard with a single click.
+
+✅ 🔄 Local storage support to persist user data.
+
+🚀 Live Demo
+https://sameertamrakar11.github.io/PassOP/
+
+📸 Screenshots
+https://github.com/sameertamrakar11/PassOP/blob/4dc9e18dc9e9fe384a5867ba77e651111df1ccef/Screenshot%20(81).png
+
+🛠️ Tech Stack
+
+Frontend: React, JavaScript, CSS, Tailwind CSS
+
+State Management: React Hooks
+
+Storage: Local Storage / MongoDB (optional for extended security)
+
+🤝 Contributing
+
+Feel free to contribute to this project by submitting issues or pull requests.
+
+🛠️ Tech Stack
+
+Frontend: React, JavaScript, CSS, Tailwind CSS
+
+State Management: React Hooks
+
+Storage: Local Storage / MongoDB (optional for extended security)
+
+🤝 Contributing
+
+Feel free to contribute to this project by submitting issues or pull requests.
