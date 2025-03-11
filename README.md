@@ -16,7 +16,8 @@ A secure and easy-to-use password manager built with JavaScript and React. This 
 https://sameertamrakar11.github.io/PassOP/
 
 📸 Screenshots
-https://github.com/sameertamrakar11/PassOP/blob/4dc9e18dc9e9fe384a5867ba77e651111df1ccef/Screenshot%20(81).png
+![image alt](https://github.com/sameertamrakar11/PassOP/blob/4dc9e18dc9e9fe384a5867ba77e651111df1ccef/Screenshot%20(81).png
+)
 
 🛠️ Tech Stack
 
